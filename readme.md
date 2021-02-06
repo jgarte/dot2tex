@@ -48,10 +48,11 @@ documentation and examples are not installed by default.
 Binary packages
 ---------------
 
-Binary packages are available for [Debian][] and [OpenSUSE][].
+Binary packages are available for [Debian][], [OpenSUSE][], and [Guix][].
 
 [Debian]: http://packages.qa.debian.org/d/dot2tex.html
 [OpenSUSE]: http://download.opensuse.org/repositories/home:/jimfunk/
+[Guix]: https://guix.gnu.org/packages/dot2tex-2.11.3/
 
 From source
 -----------
